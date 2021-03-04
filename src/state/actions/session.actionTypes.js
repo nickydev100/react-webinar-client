@@ -1,0 +1,6 @@
+export const RECEIVE_SESSION = 'RECEIVE_SESSION';
+export const DELETE_SESSION = 'DELETE_SESSION';
+export const SAVE_USER = 'SAVE_USER';
+export const SET_USER = 'SET_USER';
+export const FETCH_SESSIONS = 'FETCH_SESSIONS';
+export const FETCH_SESSION = 'FETCH_SESSION';
